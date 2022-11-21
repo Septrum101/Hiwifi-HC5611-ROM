@@ -15,5 +15,3 @@
 7：极路由面板灯进入跑马灯状态，跑完后，系统自动重启，刷机完成
 
 8：完成后将ip改回自动获取，访问http://192.168.199.1路由管理界面 密码：admin
-
-视频教程：http://v.youku.com/v_show/id_XMTMwNzA5MDY4OA==.html?from=y1.7-1.2
